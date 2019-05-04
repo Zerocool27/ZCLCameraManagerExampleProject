@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.5999219"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "378"
+            endingLineNumber = "378"
+            landmarkName = "takePhoto(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+            timestampString = "578621900.600582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "253"
+            endingLineNumber = "253"
+            landmarkName = "setupCameraSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController+Helpers.swift"
+            timestampString = "578621900.600713"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "checkFlashMode()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController+Helpers.swift"
+            timestampString = "578621900.600776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "checkFlashMode()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController+Helpers.swift"
+            timestampString = "578621900.60085"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "checkFlashMode()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.600926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.60131"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.601666"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.602015"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.602363"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.602725"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.603054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.603412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.603756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.6040961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.604432"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "285"
+            endingLineNumber = "285"
+            landmarkName = "startSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.604767"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "startSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.605095"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "initializeCameraPreview(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.605426"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.605756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.606133"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.606451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.606787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZCLCameraManagerExample.ZCLCameraSessionManager.(configureSession in _4429F95A87DBA31F6DF79D2701EC8D69)() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578616863.653164"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZCLCameraManagerExample.ZCLCameraSessionManager.(configureSession in _4429F95A87DBA31F6DF79D2701EC8D69)() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578616863.655225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.607101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.607434"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.60777"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.608112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.608426"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "initializeCameraPreview(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+            timestampString = "578621900.60878"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "toggleCaptureMode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZCLCameraManagerExample.CameraViewController.toggleCaptureMode(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+                  timestampString = "578618684.270067"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in ZCLCameraManagerExample.CameraViewController.toggleCaptureMode(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+                  timestampString = "578618684.272382"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+            timestampString = "578621900.6088721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fileOutput(_:didFinishRecordingTo:from:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+            timestampString = "578621900.608951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fileOutput(_:didFinishRecordingTo:from:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZCLCameraManagerExample.VideoFileCaptureDelegate.fileOutput(_: __C.AVCaptureFileOutput, didFinishRecordingTo: Foundation.URL, from: Swift.Array&lt;__C.AVCaptureConnection&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+                  timestampString = "578621900.919364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ZCLCameraManagerExample.VideoFileCaptureDelegate.fileOutput(_: __C.AVCaptureFileOutput, didFinishRecordingTo: Foundation.URL, from: Swift.Array&lt;__C.AVCaptureConnection&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+                  timestampString = "578621900.92203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ZCLCameraManagerExample.VideoFileCaptureDelegate.fileOutput(_: __C.AVCaptureFileOutput, didFinishRecordingTo: Foundation.URL, from: Swift.Array&lt;__C.AVCaptureConnection&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+                  timestampString = "578621900.923732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+            timestampString = "578621900.608996"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fileOutput(_:didFinishRecordingTo:from:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+            timestampString = "578621900.609037"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fileOutput(_:didFinishRecordingTo:from:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.60908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "removeObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+            timestampString = "578621900.609405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fileOutput(_:didFinishRecordingTo:from:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZCLCameraManagerExample.VideoFileCaptureDelegate.fileOutput(_: __C.AVCaptureFileOutput, didFinishRecordingTo: Foundation.URL, from: Swift.Array&lt;__C.AVCaptureConnection&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+                  timestampString = "578621900.936689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ZCLCameraManagerExample.VideoFileCaptureDelegate.fileOutput(_: __C.AVCaptureFileOutput, didFinishRecordingTo: Foundation.URL, from: Swift.Array&lt;__C.AVCaptureConnection&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+                  timestampString = "578621900.938404"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.609454"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZCLCameraManagerExample.ZCLCameraSessionManager.configureSessionForVideo(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621900.943009"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ZCLCameraManagerExample.ZCLCameraSessionManager.configureSessionForVideo(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621900.944724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.609751"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.610051"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.610352"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.610647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.610942"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+            timestampString = "578621900.611233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "toggleCaptureMode(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+            timestampString = "578621900.611303"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "toggleCaptureMode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in ZCLCameraManagerExample.CameraViewController.toggleCaptureMode(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+                  timestampString = "578621468.324783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (Swift.Bool) -&gt; () in ZCLCameraManagerExample.CameraViewController.toggleCaptureMode(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+                  timestampString = "578621468.327475"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
+            timestampString = "578621900.611351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "toggleCaptureMode(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.611396"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.6117131"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.612012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "configureSessionForVideo(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.612307"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "448"
+            endingLineNumber = "448"
+            landmarkName = "stopRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.612601"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "449"
+            endingLineNumber = "449"
+            landmarkName = "stopRecordingVideo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZCLCameraManagerExample.ZCLCameraSessionManager.stopRecordingVideo() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621527.472414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ZCLCameraManagerExample.ZCLCameraSessionManager.stopRecordingVideo() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621527.474731"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "466"
+                  endingLineNumber = "466"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.612893"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "451"
+            endingLineNumber = "451"
+            landmarkName = "stopRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.613202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "452"
+            endingLineNumber = "452"
+            landmarkName = "stopRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.613489"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "450"
+            endingLineNumber = "450"
+            landmarkName = "stopRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.61378"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "407"
+            endingLineNumber = "407"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.614095"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "412"
+            endingLineNumber = "412"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.6143889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "425"
+            endingLineNumber = "425"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.614684"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "426"
+            endingLineNumber = "426"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.614977"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (ZCLCameraManagerExample.VideoFileCaptureDelegate, Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in ZCLCameraManagerExample.ZCLCameraSessionManager.startRecordingVideo() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621604.875326"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "439"
+                  endingLineNumber = "439"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (ZCLCameraManagerExample.VideoFileCaptureDelegate, Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in ZCLCameraManagerExample.ZCLCameraSessionManager.startRecordingVideo() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621604.877334"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "439"
+                  endingLineNumber = "439"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.6152869"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "429"
+            endingLineNumber = "429"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (ZCLCameraManagerExample.VideoFileCaptureDelegate, Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in ZCLCameraManagerExample.ZCLCameraSessionManager.startRecordingVideo() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621605.3034739"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "441"
+                  endingLineNumber = "441"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (ZCLCameraManagerExample.VideoFileCaptureDelegate, Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in ZCLCameraManagerExample.ZCLCameraSessionManager.startRecordingVideo() -&gt; ()"
+                  moduleName = "ZCLCameraManagerExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+                  timestampString = "578621605.305845"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "441"
+                  endingLineNumber = "441"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.615599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "428"
+            endingLineNumber = "428"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.615891"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "408"
+            endingLineNumber = "408"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.616186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "437"
+            endingLineNumber = "437"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.616478"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "438"
+            endingLineNumber = "438"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578621900.616771"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "439"
+            endingLineNumber = "439"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
+            timestampString = "578621939.674355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fileOutput(_:didFinishRecordingTo:from:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
