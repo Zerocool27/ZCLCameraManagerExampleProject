@@ -40,6 +40,8 @@
 	<string>ZCLCameraManagerExample wants to demonstrate camera feature with microphone</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>ZCLCameraManagerExample wants to demonstrate camera feature with photo save</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

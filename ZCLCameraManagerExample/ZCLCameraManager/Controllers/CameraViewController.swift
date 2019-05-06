@@ -123,24 +123,7 @@ extension CameraViewController{
         
     }
     
-    @objc func shotButtonDoubleTapped() {
-        if !isVideoRecording {
-            enableVideoRecordingButton()
-        }
-    }
-    
-    @objc func shotButtonTapped() {
-        
-        if ZCLCameraSessionManager.shared.getCameraSession().isRunning {
-            if isVideoRecording {
-                disableVideoRecordingButton()
-                self.stopVideoRecording()
-            } else {
-                self.takePhoto()
-            }
-        }
-    }
-    @objc func onTappedCameraView(recognizer: UITapGestureRecognizer){
+    @objc func cameraViewTapGestured(recognizer: UITapGestureRecognizer){
         let screenSize = cameraView.bounds.size
         let point = recognizer.location(in: cameraView)
         let x = point.y / screenSize.height
@@ -152,18 +135,18 @@ extension CameraViewController{
         ZCLCameraSessionManager.shared.focusToPoint(point: focusPoint)
     }
     
-    @objc func dismissViewWithPanGesture(_ sender: UIPanGestureRecognizer){
+    @objc func dismissViewWithPanGesture(recognizer: UIPanGestureRecognizer){
         
-        let touchPoint = sender.location(in: self.view?.window)
+        let touchPoint = recognizer.location(in: self.view?.window)
         
-        if sender.state == UIGestureRecognizer.State.began {
+        if recognizer.state == UIGestureRecognizer.State.began {
             initialTouchPoint = touchPoint
-        } else if sender.state == UIGestureRecognizer.State.changed {
+        } else if recognizer.state == UIGestureRecognizer.State.changed {
             if touchPoint.y - initialTouchPoint.y   > 0 {
                 self.view.frame = CGRect(x: 0 , y: 0 + (touchPoint.y - initialTouchPoint.y), width: self.view.frame.size.width, height: self.view.frame.size.height)
                 self.view.alpha = 1.0 - (touchPoint.y - initialTouchPoint.y) / initialTouchPoint.y + 0.1
             }
-        } else if sender.state == UIGestureRecognizer.State.ended || sender.state == UIGestureRecognizer.State.cancelled {
+        } else if recognizer.state == UIGestureRecognizer.State.ended || recognizer.state == UIGestureRecognizer.State.cancelled {
             if touchPoint.y - initialTouchPoint.y > 100 {
                 self.dismissView()
             } else {
@@ -183,13 +166,11 @@ extension CameraViewController {
     override func viewWillAppear(_ animated: Bool) {
         ZCLCameraSessionManager.shared.startSession()
         setupObservers()
-        UIApplication.shared.isStatusBarHidden = true
     }
     
     override func viewWillDisappear(_ animated: Bool) {
         ZCLCameraSessionManager.shared.stopSession()
         removeObservers()
-        UIApplication.shared.isStatusBarHidden = false
     }
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -199,6 +180,10 @@ extension CameraViewController {
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
         self.repaintCameraPreview()
+    }
+    
+    override var prefersStatusBarHidden: Bool {
+        return true
     }
 }
 
@@ -268,12 +253,12 @@ extension CameraViewController{
     }
     func setupGestures(){
         
-        cameraViewSingleTapGesture = UITapGestureRecognizer(target: self, action: #selector(self.onTappedCameraView))
+        cameraViewSingleTapGesture = UITapGestureRecognizer(target: self, action: #selector(self.cameraViewTapGestured))
         cameraViewSingleTapGesture.numberOfTapsRequired = 1
         cameraViewSingleTapGesture.numberOfTouchesRequired = 1
         self.tapGestureView.addGestureRecognizer(cameraViewSingleTapGesture)
         toggleSingleTapInCameraView(isEnabled: true)
-        let panGesture = UIPanGestureRecognizer(target: self, action: #selector(self.dismissViewWithPanGesture(_:)))
+        let panGesture = UIPanGestureRecognizer(target: self, action: #selector(self.dismissViewWithPanGesture))
         self.tapGestureView.addGestureRecognizer(panGesture)
         let pinchGesture = UIPinchGestureRecognizer(target: self, action: #selector(self.cameraViewPinchGestured))
         self.view.addGestureRecognizer(pinchGesture)
