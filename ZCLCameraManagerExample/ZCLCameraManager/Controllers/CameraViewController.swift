@@ -159,12 +159,12 @@ extension CameraViewController{
         if sender.state == UIGestureRecognizer.State.began {
             initialTouchPoint = touchPoint
         } else if sender.state == UIGestureRecognizer.State.changed {
-            if initialTouchPoint.x - touchPoint.x  > 0 {
-                self.view.frame = CGRect(x: 0 - (initialTouchPoint.x - touchPoint.x) , y: 0, width: self.view.frame.size.width, height: self.view.frame.size.height)
-                self.view.alpha = 1.0 - (initialTouchPoint.x - touchPoint.x) / initialTouchPoint.x + 0.1
+            if touchPoint.y - initialTouchPoint.y   > 0 {
+                self.view.frame = CGRect(x: 0 , y: 0 + (touchPoint.y - initialTouchPoint.y), width: self.view.frame.size.width, height: self.view.frame.size.height)
+                self.view.alpha = 1.0 - (touchPoint.y - initialTouchPoint.y) / initialTouchPoint.y + 0.1
             }
         } else if sender.state == UIGestureRecognizer.State.ended || sender.state == UIGestureRecognizer.State.cancelled {
-            if initialTouchPoint.x - touchPoint.x  > 100 {
+            if touchPoint.y - initialTouchPoint.y > 100 {
                 self.dismissView()
             } else {
                 UIView.animate(withDuration: 0.3, animations: {
@@ -226,8 +226,6 @@ extension CameraViewController{
                 rotation_angle = (CGFloat(Double.pi) / 2)
             case .landscapeRight:
                 rotation_angle = (CGFloat(-Double.pi) / 2)
-            //case .portraitUpsideDown:
-                //rotation_angle = CGFloat(Double.pi)
             case .unknown, .portrait, .faceUp, .faceDown:
                 rotation_angle = 0
             default:
@@ -274,7 +272,7 @@ extension CameraViewController{
         cameraViewSingleTapGesture.numberOfTapsRequired = 1
         cameraViewSingleTapGesture.numberOfTouchesRequired = 1
         self.tapGestureView.addGestureRecognizer(cameraViewSingleTapGesture)
-        enableSingleTapInCameraView()
+        toggleSingleTapInCameraView(isEnabled: true)
         let panGesture = UIPanGestureRecognizer(target: self, action: #selector(self.dismissViewWithPanGesture(_:)))
         self.tapGestureView.addGestureRecognizer(panGesture)
         let pinchGesture = UIPinchGestureRecognizer(target: self, action: #selector(self.cameraViewPinchGestured))
@@ -286,20 +284,22 @@ extension CameraViewController{
 //MARK: Video/Image Management Methods
 extension CameraViewController{
     func stopVideoRecording(){
-        enableCameraSwitchButton()
+        toggleCameraSwitchButton(isEnabled: true)
         disableVideoRecordingButton()
         isVideoRecording = false
         ZCLCameraSessionManager.shared.stopRecordingVideo()
     }
     
     func startVideoRecording(){
-        disableCameraSwitchButton()
+        toggleCameraSwitchButton(isEnabled: false)
         enableVideoRecordingButton()
         isVideoRecording = true
         ZCLCameraSessionManager.shared.startRecordingVideo()
     }
     
     func takePhoto(){
+        toggleCameraSwitchButton(isEnabled: false)
+        toggleCameraActionButton(isEnabled: false)
         ZCLCameraSessionManager.shared.takePhoto(for: UIDevice.current.orientation)
     }
 }

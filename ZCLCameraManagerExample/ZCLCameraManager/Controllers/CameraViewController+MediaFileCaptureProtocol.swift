@@ -12,13 +12,13 @@ import Foundation
 extension CameraViewController: MediaFileCaptureProtocol{
     func didReceiveVideoError(error: Error?) {
         DispatchQueue.main.async {
-            self.enableCameraSwitchButton()
+            self.toggleCameraButtons(isEnabled: true)
         }
     }
     
     func didReceivePhotoError(error: Error?){
         DispatchQueue.main.async {
-            self.enableCameraSwitchButton()
+            self.toggleCameraButtons(isEnabled: true)
         }
     }
     
@@ -33,7 +33,9 @@ extension CameraViewController: MediaFileCaptureProtocol{
     }
     
     func didFinishCapturingPhoto(image: UIImage?) {
+        
         DispatchQueue.main.async { [weak self] in
+            self?.toggleCameraActionButton(isEnabled: true)
             if let image = image {
                 //DO WHATEVER YOU WANT TO DO WITH THE IMAGE
             }

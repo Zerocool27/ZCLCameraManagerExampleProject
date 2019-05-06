@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.5999219"
+            timestampString = "578870029.118724"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "378"
-            endingLineNumber = "378"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
             landmarkName = "takePhoto(for:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
-            timestampString = "578621900.600582"
+            timestampString = "578870029.1190439"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "253"
-            endingLineNumber = "253"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
             landmarkName = "setupCameraSession()"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController+Helpers.swift"
-            timestampString = "578621900.600713"
+            timestampString = "578870029.119682"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "33"
@@ -58,7 +58,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController+Helpers.swift"
-            timestampString = "578621900.600776"
+            timestampString = "578870029.119803"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
@@ -74,7 +74,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController+Helpers.swift"
-            timestampString = "578621900.60085"
+            timestampString = "578870029.119967"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.600926"
+            timestampString = "578870029.120115"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "213"
-            endingLineNumber = "213"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
             landmarkName = "setupObservers()"
             landmarkType = "7">
          </BreakpointContent>
@@ -106,11 +106,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.60131"
+            timestampString = "578870029.120291"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "214"
-            endingLineNumber = "214"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
             landmarkName = "setupObservers()"
             landmarkType = "7">
          </BreakpointContent>
@@ -122,11 +122,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.601666"
+            timestampString = "578870029.1204669"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "215"
-            endingLineNumber = "215"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
             landmarkName = "setupObservers()"
             landmarkType = "7">
          </BreakpointContent>
@@ -138,11 +138,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.602015"
+            timestampString = "578870029.120605"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "217"
-            endingLineNumber = "217"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
             landmarkName = "setupObservers()"
             landmarkType = "7">
          </BreakpointContent>
@@ -154,11 +154,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.602363"
+            timestampString = "578870029.1207319"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "216"
-            endingLineNumber = "216"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
             landmarkName = "setupObservers()"
             landmarkType = "7">
          </BreakpointContent>
@@ -170,7 +170,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.602725"
+            timestampString = "578870029.120844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578870029.12098"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "105"
@@ -186,7 +202,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.603054"
+            timestampString = "578870029.121124"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "106"
@@ -202,7 +218,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.603412"
+            timestampString = "578870029.121263"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "107"
@@ -218,11 +234,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.603756"
+            timestampString = "578870029.121411"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "108"
-            endingLineNumber = "108"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
             landmarkName = "configureSession()"
             landmarkType = "7">
          </BreakpointContent>
@@ -234,27 +250,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.6040961"
+            timestampString = "578870029.121534"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "103"
-            endingLineNumber = "103"
-            landmarkName = "configureSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.604432"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "285"
-            endingLineNumber = "285"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
             landmarkName = "startSession()"
             landmarkType = "7">
          </BreakpointContent>
@@ -266,11 +266,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.604767"
+            timestampString = "578870029.121652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "286"
-            endingLineNumber = "286"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
             landmarkName = "startSession()"
             landmarkType = "7">
          </BreakpointContent>
@@ -282,7 +282,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.605095"
+            timestampString = "578870029.121789"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "74"
@@ -298,7 +298,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.605426"
+            timestampString = "578870029.1219029"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "81"
@@ -314,7 +314,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.605756"
+            timestampString = "578870029.122021"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "82"
@@ -330,11 +330,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.606133"
+            timestampString = "578870029.12216"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "89"
-            endingLineNumber = "89"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
             landmarkName = "configureSession()"
             landmarkType = "7">
          </BreakpointContent>
@@ -346,27 +346,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.606451"
+            timestampString = "578870029.122334"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "configureSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578870029.122468"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "91"
             endingLineNumber = "91"
-            landmarkName = "configureSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.606787"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
             landmarkName = "configureSession()"
             landmarkType = "7">
             <Locations>
@@ -410,7 +410,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.607101"
+            timestampString = "578870029.122589"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "77"
@@ -426,7 +426,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.607434"
+            timestampString = "578870029.122704"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "78"
@@ -442,7 +442,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.60777"
+            timestampString = "578870029.1228141"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "79"
@@ -458,11 +458,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.608112"
+            timestampString = "578870029.122926"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "104"
-            endingLineNumber = "104"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
             landmarkName = "configureSession()"
             landmarkType = "7">
          </BreakpointContent>
@@ -474,7 +474,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.608426"
+            timestampString = "578870029.123047"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "75"
@@ -490,7 +490,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
-            timestampString = "578621900.60878"
+            timestampString = "578870029.123123"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "56"
@@ -538,7 +538,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
-            timestampString = "578621900.6088721"
+            timestampString = "578870029.123539"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "40"
@@ -554,7 +554,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
-            timestampString = "578621900.608951"
+            timestampString = "578870029.123611"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "41"
@@ -617,7 +617,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
-            timestampString = "578621900.608996"
+            timestampString = "578870029.123709"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "43"
@@ -633,7 +633,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
-            timestampString = "578621900.609037"
+            timestampString = "578870029.123786"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
@@ -649,11 +649,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.60908"
+            timestampString = "578870029.12387"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "272"
-            endingLineNumber = "272"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
             landmarkName = "removeObservers()"
             landmarkType = "7">
          </BreakpointContent>
@@ -665,7 +665,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
-            timestampString = "578621900.609405"
+            timestampString = "578870029.123963"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
@@ -709,27 +709,27 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.609454"
+            timestampString = "578870029.124018"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "173"
-            endingLineNumber = "173"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "ZCLCameraManagerExample.ZCLCameraSessionManager.configureSessionForVideo(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
                   moduleName = "ZCLCameraManagerExample"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-                  timestampString = "578621900.943009"
+                  timestampString = "578869056.47725"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "173"
@@ -737,14 +737,14 @@
                   offsetFromSymbolStart = "36">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 () -&gt; () in ZCLCameraManagerExample.ZCLCameraSessionManager.configureSessionForVideo(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
                   moduleName = "ZCLCameraManagerExample"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/fatih/Projects/DemoProjects/ZCLCameraManagerExample/ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-                  timestampString = "578621900.944724"
+                  timestampString = "578869056.479387"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "174"
@@ -757,15 +757,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.609751"
+            timestampString = "578870029.12411"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "174"
-            endingLineNumber = "174"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -777,11 +777,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.610051"
+            timestampString = "578870029.124172"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "175"
-            endingLineNumber = "175"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -793,11 +793,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.610352"
+            timestampString = "578870029.124223"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "176"
-            endingLineNumber = "176"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -809,11 +809,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.610647"
+            timestampString = "578870029.124293"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "177"
-            endingLineNumber = "177"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -825,11 +825,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.610942"
+            timestampString = "578870029.124344"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "178"
-            endingLineNumber = "178"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -841,7 +841,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
-            timestampString = "578621900.611233"
+            timestampString = "578870029.124428"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "57"
@@ -857,7 +857,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
-            timestampString = "578621900.611303"
+            timestampString = "578870029.124758"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "58"
@@ -905,7 +905,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Controllers/CameraViewController.swift"
-            timestampString = "578621900.611351"
+            timestampString = "578870029.125084"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "60"
@@ -921,11 +921,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.611396"
+            timestampString = "578870029.1254081"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "187"
-            endingLineNumber = "187"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -937,11 +937,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.6117131"
+            timestampString = "578870029.125525"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "188"
-            endingLineNumber = "188"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -953,11 +953,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.612012"
+            timestampString = "578870029.125638"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "189"
-            endingLineNumber = "189"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
             landmarkName = "configureSessionForVideo(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -969,11 +969,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.612307"
+            timestampString = "578870029.1257"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "448"
-            endingLineNumber = "448"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
             landmarkName = "stopRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -985,11 +985,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.612601"
+            timestampString = "578870029.1257499"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "449"
-            endingLineNumber = "449"
+            startingLineNumber = "443"
+            endingLineNumber = "443"
             landmarkName = "stopRecordingVideo()"
             landmarkType = "7">
             <Locations>
@@ -1033,11 +1033,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.612893"
+            timestampString = "578870029.125818"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "451"
-            endingLineNumber = "451"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
             landmarkName = "stopRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1049,11 +1049,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.613202"
+            timestampString = "578870029.12589"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "452"
-            endingLineNumber = "452"
+            startingLineNumber = "446"
+            endingLineNumber = "446"
             landmarkName = "stopRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1065,11 +1065,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.613489"
+            timestampString = "578870029.125939"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "450"
-            endingLineNumber = "450"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
             landmarkName = "stopRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1081,7 +1081,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.61378"
+            timestampString = "578870029.1260411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "402"
+            endingLineNumber = "402"
+            landmarkName = "startRecordingVideo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
+            timestampString = "578870029.126121"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "407"
@@ -1097,11 +1113,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.614095"
+            timestampString = "578870029.1262079"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "412"
-            endingLineNumber = "412"
+            startingLineNumber = "420"
+            endingLineNumber = "420"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1113,11 +1129,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.6143889"
+            timestampString = "578870029.126294"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "425"
-            endingLineNumber = "425"
+            startingLineNumber = "421"
+            endingLineNumber = "421"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1129,27 +1145,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.614684"
+            timestampString = "578870029.126389"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "426"
-            endingLineNumber = "426"
-            landmarkName = "startRecordingVideo()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.614977"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "427"
-            endingLineNumber = "427"
+            startingLineNumber = "422"
+            endingLineNumber = "422"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
             <Locations>
@@ -1193,11 +1193,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.6152869"
+            timestampString = "578870029.126472"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "429"
-            endingLineNumber = "429"
+            startingLineNumber = "424"
+            endingLineNumber = "424"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
             <Locations>
@@ -1241,11 +1241,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.615599"
+            timestampString = "578870029.126538"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "428"
-            endingLineNumber = "428"
+            startingLineNumber = "423"
+            endingLineNumber = "423"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1257,11 +1257,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.615891"
+            timestampString = "578870029.126647"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "408"
-            endingLineNumber = "408"
+            startingLineNumber = "403"
+            endingLineNumber = "403"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1273,11 +1273,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.616186"
+            timestampString = "578870029.1267101"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "437"
-            endingLineNumber = "437"
+            startingLineNumber = "431"
+            endingLineNumber = "431"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1289,11 +1289,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.616478"
+            timestampString = "578870029.126803"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "438"
-            endingLineNumber = "438"
+            startingLineNumber = "432"
+            endingLineNumber = "432"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1305,11 +1305,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/ZCLCameraSessionManager/ZCLCameraSessionManager.swift"
-            timestampString = "578621900.616771"
+            timestampString = "578870029.126887"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "439"
-            endingLineNumber = "439"
+            startingLineNumber = "433"
+            endingLineNumber = "433"
             landmarkName = "startRecordingVideo()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1321,7 +1321,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZCLCameraManagerExample/ZCLCameraManager/Delegates/VideoFileCaptureDelegate.swift"
-            timestampString = "578621939.674355"
+            timestampString = "578870029.126971"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "44"

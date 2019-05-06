@@ -49,12 +49,8 @@ extension CameraViewController{
         self.focusSquare?.animateFocusingAction()
     }
     
-    func enableSingleTapInCameraView(){
-        cameraViewSingleTapGesture?.isEnabled = true
-    }
-    
-    func disableSingleTapInCameraView(){
-        cameraViewSingleTapGesture?.isEnabled = false
+    func toggleSingleTapInCameraView(isEnabled:Bool){
+        cameraViewSingleTapGesture?.isEnabled = isEnabled
     }
     
     func dismissView() {
@@ -73,11 +69,11 @@ extension CameraViewController{
         cameraActionButton.setImage(UIImage(named: "cameraNormal"), for: .normal)
     }
     
-    func disableCameraSwitchButton(){
-        switchCameraButton.isEnabled = false
+    func toggleCameraSwitchButton(isEnabled:Bool) {
+        switchCameraButton.isEnabled = isEnabled
     }
     
-    func enableCameraSwitchButton() {
-        switchCameraButton.isEnabled = true
+    func toggleCameraActionButton(isEnabled:Bool){
+        cameraActionButton.isEnabled = isEnabled
     }
 }

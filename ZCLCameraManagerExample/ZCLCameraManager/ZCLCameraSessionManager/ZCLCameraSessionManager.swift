@@ -83,7 +83,6 @@ extension ZCLCameraSessionManager{
         
         // Add video input.
         do {
-            
             // Choose the back dual camera if available, otherwise default to a wide angle camera.
             
             if let backCameraDevice = AVCaptureDevice.default(.builtInWideAngleCamera, for: .video, position: .back) {
@@ -118,7 +117,6 @@ extension ZCLCameraSessionManager{
                     self.getPreview().connection?.videoOrientation = initialVideoOrientation
                 }
             } else {
-                print("Couldn't add video device input to the session.")
                 setupResult = .configurationFailed
                 session.commitConfiguration()
                 return
@@ -137,8 +135,6 @@ extension ZCLCameraSessionManager{
             
             if session.canAddInput(audioDeviceInput) {
                 session.addInput(audioDeviceInput)
-            } else {
-                print("Could not add audio device input to the session")
             }
         } catch {
             print("Could not create audio device input: \(error)")
@@ -149,7 +145,6 @@ extension ZCLCameraSessionManager{
             session.addOutput(photoOutput)
             photoOutput.isHighResolutionCaptureEnabled = true
         } else {
-            print("Could not add photo output to the session")
             setupResult = .configurationFailed
             session.commitConfiguration()
             return
@@ -427,7 +422,6 @@ extension ZCLCameraSessionManager{
                             }else if let videoPath = videoPath{
                                 self.delegate?.didFinishCapturingVideo(videoUrl: videoPath, thumbnail: thumbnail)
                             }
-                            self.clearMovieFileOutput()
                             self.inProgressVideoCaptureDelegates[videoCaptureProcessor.uniqueVideoId] = nil
                         }
                     },captureDevice: self.defaultVideoDevice)
@@ -452,14 +446,6 @@ extension ZCLCameraSessionManager{
                     movieFileOutput.stopRecording()
                 }
             }
-        }
-    }
-    func clearMovieFileOutput(){
-        if let movieFileOutput = self.movieFileOutput {
-            self.getCameraSession().beginConfiguration()
-            self.getCameraSession().removeOutput(movieFileOutput)
-            self.getCameraSession().commitConfiguration()
-            self.movieFileOutput = nil
         }
     }
 }

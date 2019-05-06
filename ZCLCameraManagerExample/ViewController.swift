@@ -18,7 +18,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-    func handleCameraPermissions(){
+}
+
+// MARK: Helper Methods
+extension ViewController{
+    private func handleCameraPermissions(){
         switch AVCaptureDevice.authorizationStatus(for: .video) {
         case .authorized:
             // The user has previously granted access to the camera.
