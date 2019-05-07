@@ -155,10 +155,9 @@ extension ZCLCameraSessionManager{
     
     func configureSessionForPhoto(completion:@escaping () -> ()){
         sessionQueue.async {
-            // Remove the AVCaptureMovieFileOutput from the session since it doesn't support capture of Live Photos.
             self.session.beginConfiguration()
             self.session.removeOutput(self.movieFileOutput!)
-            self.session.sessionPreset = .hd1920x1080
+            self.setupBestPresetAvailable()
             self.movieFileOutput = nil
             self.session.commitConfiguration()
             completion()
@@ -170,7 +169,7 @@ extension ZCLCameraSessionManager{
             if self.session.canAddOutput(movieFileOutput) {
                 self.session.beginConfiguration()
                 self.session.addOutput(movieFileOutput)
-                self.session.sessionPreset = .high
+                self.setupBestPresetAvailable()
                 if let connection = movieFileOutput.connection(with: .video) {
                     if connection.isVideoStabilizationSupported {
                         connection.preferredVideoStabilizationMode = .auto

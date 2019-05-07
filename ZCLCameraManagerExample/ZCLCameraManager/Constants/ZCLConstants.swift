@@ -1,5 +1,5 @@
 //
-//  Constants.swift
+//  ZCLConstants.swift
 //  ZCLCameraManagerExample
 //
 //  Created by fatih on 5/3/19.
